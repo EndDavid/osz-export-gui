@@ -1,0 +1,15 @@
+build/
+*.user
+.vs/
+__pycache__/
+
+# Helper binaries (managed assemblies + Realm native library) are not committed.
+helper/*.dll
+helper/*.so
+helper/*.exe
+helper-src/*.dll
+helper-src/bin/
+helper-src/obj/
+
+# Local test output
+*.log
