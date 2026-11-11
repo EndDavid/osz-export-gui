@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 EndDavid
+Copyright (c) 2026 EnderDavid
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,8 +22,7 @@ SOFTWARE.
 
 ---
 
-Note: this license covers the source code of this project (C++/CMake/C#
-sources, build scripts and documentation). It does NOT cover the osu!lazer
+Note: this license does NOT cover the osu!lazer
 derived icon artwork (assets/source/lazer-256.png, assets/icon*.png,
 assets/icon.ico, and the icon shown in screenshot.png). The osu! name and logo
 are trademarks of ppy Pty Ltd; those assets remain subject to their own terms.
