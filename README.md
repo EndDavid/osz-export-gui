@@ -1,4 +1,6 @@
-﻿# osu!lazer 谱面导出器
+# osu!lazer 谱面导出器
+
+[English](README_en.md) | 简体中文
 
 一个本地小工具：读取 osu!lazer 的数据库，列出所有已导入谱面，勾选后重新打包为 `.osz`。
 
