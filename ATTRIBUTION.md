@@ -1,5 +1,18 @@
 # 第三方资源与致谢
 
+## 许可范围
+
+本仓库的**源码**（C++/CMake/C#、构建脚本与文档）采用 [MIT License](LICENSE)。
+
+以下内容**不在** MIT 授权范围内，仍归其原作者所有：
+
+- `assets/source/lazer-256.png`、`assets/icon*.png`、`assets/icon.ico`：由 osu!lazer 图标派生；
+- `screenshot.png` 中出现的 osu! 图标与标识。
+
+osu! 名称与图标是 ppy Pty Ltd 的商标/美术资源。osu!lazer 的程序代码采用 MIT，
+但其美术资源（[ppy/osu-resources](https://github.com/ppy/osu-resources)）通常按
+CC BY-NC 4.0 提供，且商标不随代码授权。本工具仅在图标中表明用途关联，与 ppy 无隶属关系。
+
 ## osu!lazer 图标
 
 `assets/source/lazer-256.png` 以及由它派生的 `assets/icon*.png`、`assets/icon.ico`
